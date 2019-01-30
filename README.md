@@ -26,6 +26,7 @@ It's a **Spotlight** plugin to display informations of unsupported images (**Web
 ### -Install via Homebrew
 
  1.Launch Terminal.app and run `brew cask install qlimagesize`
+ 
  2.Launch Terminal.app and run `qlmanage -r`
 
 ### -Manually install 
@@ -44,6 +45,7 @@ It's a **Spotlight** plugin to display informations of unsupported images (**Web
 ### -Uninstall via Homebrew
  
  1.Launch Terminal.app and run `brew cask uninstall qlimagesize`
+ 
  2.Launch Terminal.app and run `qlmanage -r`
  
 ### -Manually uninstall
