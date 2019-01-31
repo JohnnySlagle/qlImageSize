@@ -1,4 +1,4 @@
-# Homebrew did not accept my pull request, they think this is under 20 stars and not a good plugin used by many people.I will not pull a request any more! If you neeed this, please use Manually install.
+# Homebrew did not accept my pull request, they think this is under 20 stars and not a good plugin used by many people.I will not pull a request to Homebrew any more(It means you can not install via Homebrew)! If you neeed this, please use Manually install.
 
 
 # qlImageSize
