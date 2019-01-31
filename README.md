@@ -1,3 +1,6 @@
+# Homebrew did not accept my pull request, they think this is under 20 stars and not a good plugin used by many people.I will not pull a request any more! If you neeed this, please use Manually install.
+
+
 # qlImageSize
 
 This is a **QuickLook** plugin for OS X *10.11+* to display the dimensions of an image and its file size in the title bar.
@@ -23,11 +26,11 @@ It's a **Spotlight** plugin to display informations of unsupported images (**Web
 
 # Installation
 
-### -Install via Homebrew
+~~### -Install via Homebrew~~
 
- 1.Launch Terminal.app and run `brew cask install qlimagesize`
+ ~~1.Launch Terminal.app and run `brew cask install qlimagesize`~~
  
- 2.Launch Terminal.app and run `qlmanage -r`
+ ~~2.Launch Terminal.app and run `qlmanage -r`~~ 
 
 ### -Manually install 
 
@@ -42,11 +45,11 @@ It's a **Spotlight** plugin to display informations of unsupported images (**Web
 
 # Uninstall
 
-### -Uninstall via Homebrew
+~~### -Uninstall via Homebrew~~
  
- 1.Launch Terminal.app and run `brew cask uninstall qlimagesize`
+ ~~1.Launch Terminal.app and run `brew cask uninstall qlimagesize`~~
  
- 2.Launch Terminal.app and run `qlmanage -r`
+ ~~2.Launch Terminal.app and run `qlmanage -r`~~
  
 ### -Manually uninstall
 
